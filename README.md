@@ -1,30 +1,24 @@
 ## Olá, sou o Luiz Antonio 👋
 
-**Web Developer** · Porto, Portugal · Freelancer
+**Web Developer** · Porto, Portugal · Freelancer em Upwork
 
-> Construo sistemas de gestão, CRMs e ERPs para pequenas e médias empresas. Foco em código limpo, testes automatizados e arquiteturas que escalam.
+Construo sistemas de gestão, CRMs e ERPs para pequenas e médias empresas. Foco em código limpo, testes automatizados e arquiteturas que escalam.
 
 ---
 
-### 🔧 Stack principal
-
-```
-PHP  ·  MySQL  ·  JavaScript (Vanilla)  ·  Appwrite  ·  Bootstrap  ·  Git  ·  Vitest  ·  Playwright
-```
-
-### 📦 Projetos em destaque
+### 🛠️ Projetos em destaque
 
 | Projeto | Stack | Métricas |
 |---------|-------|----------|
-| [**PoupaPlus CRM**](https://github.com/losmanim/crm-poupaplus) | Vanilla JS + Appwrite | 419 testes · 22 módulos · 50+ JS files |
-| [**Gestão BH ERP**](https://github.com/losmanim/gestaoBH) | PHP + MySQL | 11.456 linhas · 16 tabelas · 10 módulos |
+| **PoupaPlus CRM** | Vanilla JS + Appwrite | 419 testes, 22 módulos, 50+ JS files |
+| **Gestão BH ERP** | PHP + MySQL | 11.456 linhas, 16 tabelas, 10 módulos |
 
-🔗 [Portfólio completo](https://losmanim.github.io/portfolio)
+🔗 [Ver portfólio completo](https://losmanim.github.io/portfolio)
 
 ### 📫 Contacto
 
 - Email: los486@hotmail.com
-- Upwork: *a definir*
+- Upwork: [Freelancer Profile](https://www.upwork.com/freelancers/~018a8878b023c31679)
 
 ---
 
