@@ -1,6 +1,6 @@
 ## Olá, sou o Luiz Antonio 👋
 
-**Web Developer** · Porto, Portugal · Freelancer em Upwork
+**Web Developer** · Porto, Portugal · Freelancer
 
 Construo sistemas de gestão, CRMs e ERPs para pequenas e médias empresas. Foco em código limpo, testes automatizados e arquiteturas que escalam.
 
