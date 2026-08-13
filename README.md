@@ -75,7 +75,6 @@ Construo **sistemas de gestão, CRMs e ERPs** para pequenas e médias empresas. 
 - Email: [los486@hotmail.com](mailto:los486@hotmail.com)
 - Portfolio: [losmanim.github.io/portfolio](https://losmanim.github.io/portfolio)
 - LinkedIn: [Luiz Antonio](https://www.linkedin.com/in/luiz-antonio-de-oliveira-silva-84945197)
-- Upwork: [Perfil freelancer](https://www.upwork.com/freelancers/~018a8878b023c31679)
 
 ---
 
